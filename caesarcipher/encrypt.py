@@ -14,3 +14,5 @@ def encrypt(text, step=1):
     return encrypted_text
 
 
+def func():
+    pass
